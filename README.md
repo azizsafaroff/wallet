@@ -1,20 +1,13 @@
 # card wallet
 
 For download application 
+<a href="https://ibb.co/3z3rQmQ"><img src="https://i.ibb.co/fvg1LdL/photo-2021-08-11-15-52-51.jpg" alt="photo-2021-08-11-15-52-51" border="0" width=100></a>
+<a href="https://ibb.co/3F9zFXV"><img src="https://i.ibb.co/PWvQWpJ/photo-2021-08-11-15-53-02.jpg" alt="photo-2021-08-11-15-53-02" border="0" width=100></a>
+<a href="https://ibb.co/Mh8pmTv"><img src="https://i.ibb.co/Jdx29L1/photo-2021-08-11-15-53-08.jpg" alt="photo-2021-08-11-15-53-08" border="0" width=100></a>
+<a href="https://ibb.co/tc39sQk"><img src="https://i.ibb.co/ctxjFkM/photo-2021-08-11-15-53-14.jpg" alt="photo-2021-08-11-15-53-14" border="0" width=100></a>
+<a href="https://ibb.co/JRmRGpF"><img src="https://i.ibb.co/yndnZkB/photo-2021-08-11-15-53-19.jpg" alt="photo-2021-08-11-15-53-19" border="0" width=100></a>
+<a href="https://ibb.co/2nGXkgj"><img src="https://i.ibb.co/0DHPGhf/photo-2021-08-11-15-53-24.jpg" alt="photo-2021-08-11-15-53-24" border="0" width=100></a>
 
-Wallet application.
-
-Screenshot verify phone - https://drive.google.com/file/d/1JcfdamSrULdcEk8b_Uq-h6SLu1rQMYBK/view?usp=sharing
-
-Screenshot verify sms https://drive.google.com/file/d/1Jb4yOnluDL0JHgzlkv_go3EmGa5dPIh0/view?usp=sharing
-
-Screenshot home screen https://drive.google.com/file/d/1JeXhWHw67TP9sAemcdx9ur45mIN5oUbx/view?usp=sharing
-
-Screenshot wallet screen https://drive.google.com/file/d/1JgDX8qfDVQXfEsMflCCVGn7PlWWL_k37/view?usp=sharing
-
-Screenshot message screen https://drive.google.com/file/d/1Jj_9B9OaqL8F3VPwnwG47R_Z5nEL9FyT/view?usp=sharing
-
-Screenshot profile screen https://drive.google.com/file/d/1JmFsDApkL5cXzzBq2nKwvzMfQ2IqUg26/view?usp=sharing
 
 Video application https://drive.google.com/file/d/1Jmwott-3TszEJ96VQl7soW2SobX9alnT/view?usp=sharing
 
