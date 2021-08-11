@@ -3,10 +3,18 @@
 Wallet application.
 
 Screenshot verify phone - https://drive.google.com/file/d/1JcfdamSrULdcEk8b_Uq-h6SLu1rQMYBK/view?usp=sharing
+
 Screenshot verify sms https://drive.google.com/file/d/1Jb4yOnluDL0JHgzlkv_go3EmGa5dPIh0/view?usp=sharing
+
 Screenshot home screen https://drive.google.com/file/d/1JeXhWHw67TP9sAemcdx9ur45mIN5oUbx/view?usp=sharing
+
 Screenshot wallet screen https://drive.google.com/file/d/1JgDX8qfDVQXfEsMflCCVGn7PlWWL_k37/view?usp=sharing
+
 Screenshot message screen https://drive.google.com/file/d/1Jj_9B9OaqL8F3VPwnwG47R_Z5nEL9FyT/view?usp=sharing
+
+Screenshot profile screen https://drive.google.com/file/d/1JmFsDApkL5cXzzBq2nKwvzMfQ2IqUg26/view?usp=sharing
+
+Video application https://drive.google.com/file/d/1Jmwott-3TszEJ96VQl7soW2SobX9alnT/view?usp=sharing
 
 ## Getting Started
 
