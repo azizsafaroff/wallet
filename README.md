@@ -1,6 +1,5 @@
-# card wallet
+# card Wallet
 
-For download application 
 <a href="https://ibb.co/3z3rQmQ"><img src="https://i.ibb.co/fvg1LdL/photo-2021-08-11-15-52-51.jpg" alt="photo-2021-08-11-15-52-51" border="0" width=100></a>
 <a href="https://ibb.co/3F9zFXV"><img src="https://i.ibb.co/PWvQWpJ/photo-2021-08-11-15-53-02.jpg" alt="photo-2021-08-11-15-53-02" border="0" width=100></a>
 <a href="https://ibb.co/Mh8pmTv"><img src="https://i.ibb.co/Jdx29L1/photo-2021-08-11-15-53-08.jpg" alt="photo-2021-08-11-15-53-08" border="0" width=100></a>
