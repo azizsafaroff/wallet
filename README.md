@@ -23,22 +23,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Plugins:
-  
-  google_fonts: ^2.1.0
-  
-  fl_chart: ^0.36.3
-  
-  image_picker: ^0.8.3+2
-  
-  sqflite: ^2.0.0+3
-  
-  path: ^1.8.0
-  
-  path_provider: ^2.0.2
-  
-  http: ^0.13.3
-  
-  firebase_auth: ^3.0.1
+Plugins:<br>
+  google_fonts: ^2.1.0<br>  
+  fl_chart: ^0.36.3<br>
+  image_picker: ^0.8.3+2<br>
+  sqflite: ^2.0.0+3<br>
+  path: ^1.8.0<br>
+  path_provider: ^2.0.2<br>
+  http: ^0.13.3<br>
+  firebase_auth: ^3.0.1<br>
   
   
